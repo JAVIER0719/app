@@ -21,12 +21,13 @@ module.exports = {
        "color-dark":"#7a4219",
        "color-light-dark":"#68371b",
        "color-dark-dark":"#3c1c0c",
+       /**degrade */
 
       },
       backgroundImage:{
-        "img": "url('/resources/img/library.jpg')",
-        "open-menu": "url('/resources/img/icon-hamburger.svg')",
-        "close-menu": "url('/resources/img/icon-close.svg')"
+        "img": "url('resources/img/library.jpg')",
+        "open-menu": "url('resources/img/icon-hamburger.svg')",
+        "close-menu": "url('resources/img/icon-close.svg')"
       },
 
     },

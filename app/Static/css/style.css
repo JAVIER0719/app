@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+    .button{
+        @apply m-4 bg-dark-light-color mx-4 md:mx-6 text-white rounded-2xl w-20 h-8 md:h-10 transition-all hover:bg-transparent;
+    }
+
+
+}
+
+
+
